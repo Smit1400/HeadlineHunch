@@ -47,11 +47,11 @@ So, instead of looking at all the words in the source sequence, we can increase 
 
 Now we know from the examples that the model is not that accurate, so we need to improve this further
 
-Steps to improve
+Future steps to imporve the model:
 
 1. Increase the dataset
 2. Hypertuning the parameters
 3. Change the encoder structure
 4. Train for longer time
 
-<p align="center">Author: Smit Shah</p>
+<p align="center">Author: Smit Shah :smiley:</p>
