@@ -1,1 +1,1 @@
-# news_headline_generator
+# News Headline generator
