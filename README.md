@@ -49,9 +49,9 @@ Now we know from the examples that the model is not that accurate, so we need to
 
 Steps to improve
 
-..a. Increase the dataset
-..b. Hypertuning the parameters
-..c. Change the encoder structure
-..d. Train for longer time
+1. Increase the dataset
+2. Hypertuning the parameters
+3. Change the encoder structure
+4. Train for longer time
 
 <p align="center">Author: Smit Shah</p>
