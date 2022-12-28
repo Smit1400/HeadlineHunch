@@ -11,7 +11,7 @@ The dataset consists of 4515 examples and contains Author_name, Headlines, Url o
 
 Lets Look at the head of the dataset
 
-![alt text]("./images/head.png")
+![alt text](images/head.png)
 
 2. Data Cleaning and preprocessing
 
