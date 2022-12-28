@@ -40,7 +40,7 @@ So, instead of looking at all the words in the source sequence, we can increase 
 
 4. Lets look at some examples
 
-![alt text](images/examples.png)
+![alt text](images/example.png)
 
 
 5. Further steps
