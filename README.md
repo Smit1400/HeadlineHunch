@@ -1,6 +1,6 @@
 # News Headline generator
 
-As the title explains,  I have build a model which generates headlines for a news, this model is 78% accurate and I aim to improve this in future, now lets look walk through the code.
+As the title explains,  I have build a model which generates headlines for a news, this model is 78% accurate and I aim to improve this in future, now lets walk through the code.
 
 
 1. Dataset
